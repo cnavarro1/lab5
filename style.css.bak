@@ -9,6 +9,11 @@ h1 {
   text-align: center;
   color: white;
 }
+h2 {
+  font-family: courier;
+  text-align: center;
+  color: white;
+}
 table, tr {
   font-family: courier;
   text-align: center;
@@ -28,4 +33,7 @@ th {
 .planettable th{
   text-align: center;
 
+}
+p {
+  background-color: white;
 }

@@ -8,7 +8,9 @@
 
 <body>
   <h1>Planet Facts</h1>
-  
+  <h2>Welcome to the Webpage of Planet Stats! Here you can find images of four planets in our solar system.
+    Right under those are some stats on those planets. Enjoy!
+  </h2>
   <table class="planettable">
     <th>
       <img src="images/mars.jpg" alt="Mars" height="300" width="300">
@@ -17,6 +19,8 @@
       <img src="images/uranus.jpg" alt="Uranus"height="300" width="300">
     </th>
   </table>
+  <h2>
+	
   <table>
 	<tr>
 	  <th>Planet Name</th>
