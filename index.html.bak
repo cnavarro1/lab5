@@ -13,12 +13,10 @@
   </h2>
   <table class="planettable">
     <tr>
-	  <th>
-        <img src="images/mars.jpg" alt="Mars" height="300" width="300">
-        <img src="images/jupiter.jpg" alt="Jupiter" height="300" width="300">
-        <img src="images/saturn.jpg" alt="Saturn" height="300" width="550">
-        <img src="images/uranus.jpg" alt="Uranus" height="300" width="300">
-      </th>
+	  <th><img src="images/mars.jpg" alt="Mars" height="300" width="300"></th>
+      <th><img src="images/jupiter.jpg" alt="Jupiter" height="300" width="300"></th>
+      <th><img src="images/saturn.jpg" alt="Saturn" height="300" width="550"></th>
+      <th><img src="images/uranus.jpg" alt="Uranus" height="300" width="300"></th>
 	</tr>
   </table>
 	
