@@ -12,14 +12,15 @@
     Right under those are some stats on those planets. Enjoy!
   </h2>
   <table class="planettable">
-    <th>
-      <img src="images/mars.jpg" alt="Mars" height="300" width="300">
-      <img src="images/jupiter.jpg" alt="Jupiter"height="300" width="300">
-      <img src="images/saturn.jpg" alt="Saturn"height="300" width="550">
-      <img src="images/uranus.jpg" alt="Uranus"height="300" width="300">
-    </th>
+    <tr>
+	  <th>
+        <img src="images/mars.jpg" alt="Mars" height="300" width="300">
+        <img src="images/jupiter.jpg" alt="Jupiter" height="300" width="300">
+        <img src="images/saturn.jpg" alt="Saturn" height="300" width="550">
+        <img src="images/uranus.jpg" alt="Uranus" height="300" width="300">
+      </th>
+	</tr>
   </table>
-  <h2>
 	
   <table>
 	<tr>
