@@ -36,4 +36,5 @@ th {
 }
 p {
   background-color: white;
+  text-align: center;
 }
